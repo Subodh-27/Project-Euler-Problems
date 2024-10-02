@@ -24,6 +24,6 @@ public class Problem2 {
             num2 = num3;
         }
 
-        System.out.println("Total Sum = " + sum);
+        System.out.println("\nTotal Sum of Even Values = " + sum);
     }
 }
